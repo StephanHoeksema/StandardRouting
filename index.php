@@ -1,5 +1,5 @@
 <?php
-require 'core/Db.php'
+require 'core/Db.php';
 require 'core/RequestPage.php';
 require 'controllers/RoutesController.php';
 
